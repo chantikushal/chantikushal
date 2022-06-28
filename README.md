@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chantikushal
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning c++ programming language
-- 💞️ I’m looking to collaborate on lol nothing, if possible on some games that I can create now.
+- 💞️ I’m looking to collaborate on small projects that involve game development
 - 📫 How to reach me you can mail me at vudavagandlakushal@gmail.com
 
 <!---
